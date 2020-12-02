@@ -2,7 +2,7 @@ from flask import Flask, request
 import threading
 import copy
 import atexit
-from NameNode import Name_Node
+from name_node import Name_Node
 
 global nn
 POOL_TIME = 30
