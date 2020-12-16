@@ -5,3 +5,6 @@ Includes node failure detection and redundancy to account for any node failure.
 
 # Author
 Richard Charczenko
+
+# Acknowledgments
+Allison O'Young
